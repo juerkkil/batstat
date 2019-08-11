@@ -1,5 +1,5 @@
 # batstat
-Very simple device batteyr status indicator to window manager systray. Reads the 
+Very simple device battery status indicator to window manager systray. Reads the 
 battery status and displays it as a small systray icon. Does exactly that and 
 nothing else.
 
